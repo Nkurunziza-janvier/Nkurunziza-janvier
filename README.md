@@ -127,25 +127,15 @@ I'm a **Full-Stack Developer from Rwanda** focused on building practical, scalab
 
 ---
 
-## 🏆 GitHub Achievements
+## 🎯 What I'm Building
+
+I'm currently focused on building practical software products for businesses and improving my skills in modern full-stack development.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nkurunziza-janvier&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+### 🚀 Build. Learn. Improve. Repeat.
 
 </div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nkurunziza-janvier&theme=github-compact&hide_border=true" />
-
-</div>
-
----
 
 ## 🌍 Connect With Me
 
