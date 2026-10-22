@@ -11,6 +11,7 @@
 <a href="https://github.com/Nkurunziza-janvier">
   <img src="https://img.shields.io/github/followers/Nkurunziza-janvier?label=Followers&style=for-the-badge&logo=github&color=181717" />
 </a>
+&nbsp;
 <a href="https://github.com/Nkurunziza-janvier">
   <img src="https://komarev.com/ghpvc/?username=Nkurunziza-janvier&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
 </a>
@@ -23,30 +24,30 @@
 
 I'm a **Full-Stack Developer from Rwanda** focused on building practical, scalable and user-friendly web applications.
 
-- 🚀 Currently building **eBusiness**, a platform helping businesses create their online presence and connect with customers.
+- 🚀 Currently building **eBusiness** — a platform helping businesses create their online presence and connect with customers.
 - 💻 Around **2 years of software development experience**
 - 🌍 Based in **Rwanda 🇷🇼**
 - 🧠 Currently improving my **Python & AI Engineering** skills
-- 🤝 Open to **collaboration, internships and software opportunities**
+- 🤝 Open to collaboration, internships and software development opportunities
 - 🎯 Focused on building products that solve **real-world business problems**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
 </p>
 
-### Database & Tools
+### 🗄️ Database & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,git,github,postman,vscode" />
@@ -153,8 +154,7 @@ I'm a **Full-Stack Developer from Rwanda** focused on building practical, scalab
 <a href="https://github.com/Nkurunziza-janvier">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<!-- Replace the URL below with your real LinkedIn profile -->
+&nbsp;
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
